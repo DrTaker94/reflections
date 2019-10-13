@@ -1,0 +1,14 @@
+ls -a [shows files in a directory]
+git init [create a repositary]
+git clone [clone a project with its repositary]
+git log [show the recent commits and changes in a file]
+git diff ID1 ID2 [show the difference in versions]
+git checkout ID [choose a commit to work on]
+git status [shows which files have changes since the last commit]
+git add [add a file to a staging area that later can be commited as one when use commit cmd]
+git reset [remove a file from a staging area]
+git commit -m "Commit message" [commit with a message]
+git remote[a repostiries form github]
+git remote add {name for repositary} {URL for account repositary}
+git remote -v [Add more information from the remote]
+git push {rep name} {branch}

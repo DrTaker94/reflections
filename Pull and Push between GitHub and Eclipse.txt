@@ -1,0 +1,9 @@
+Pulling and Pushing between GitHub and Eclipse:
+ 
+ - Quick Access: Git repository.
+ - Right Click project -> Team -> Share Prject -> CheckBox -> Create Rep -> Finish
+ - Right Click Project -> Team -> Add Index.
+ - Right Click Project -> Team -> Commit -> Write Commit msg -> commit.
+ - GitHub -> Create Rep -> Name -> copy https link.
+ - Right Click Git Rep Project -> Push Branch master -> URL -> paste link -> type username and pass - > Preview -> Push.
+ 
